@@ -3,7 +3,7 @@ header{
     align-items: center;
     justify-content: space-between;
     flex-direction: row;
-    background-color: aqua;
+    background-color:#04BFAD ;
     padding: 35px 35px;
     border-bottom: 100px;
 
@@ -62,9 +62,13 @@ body{
 }
 .sidebar{
     position: fixed;
-    background-color: rgb(255, 255, 255);
+    background-color:#012626;
         border: 3px black solid;
-        margin: -5rem -7rem;
+        margin: 13.9rem -7rem;
         width: 22rem;
         height: 90rem;
+}
+li{
+    padding-bottom: 2rem;
+    margin-right: -2rem;
 }
