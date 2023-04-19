@@ -1,0 +1,12 @@
+.canetabr{
+    background-color: #6ccfc5;
+    position: absolute;
+    border: 5px rgb(0, 0, 0) solid;
+    border-radius: 7em;
+    width: 35em;
+    height: 35rem;
+    margin: 10em 40em;
+}
+body{
+    background-color: #04BFAD;
+}
